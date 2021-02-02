@@ -1,6 +1,4 @@
 import $ from 'jquery';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './css/styles.css'; // might be incorrect
-
-// main.js is for UI logic
+import './css/styles.css';
