@@ -7,7 +7,8 @@
 
 ## 📃 Description
 
-This application will...
+This application will create a functional programming approach to functions that make things grow - in our case, plants.
+
 ## Stretch Goals
 - Testing
 Add functionality to create multiple plants.
